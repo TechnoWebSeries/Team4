@@ -1,0 +1,31 @@
+<h1>Pure CSS Tic-Tac-Toe</h1>
+
+<p>Pink (X's) v. Green (O's) &mdash; Each team has 5 seconds to make a move!</p>
+
+<div class="gameboard">
+  <div class="team--o">
+    <input type="checkbox"/>
+    <input type="checkbox"/>
+    <input type="checkbox"/>
+    <input type="checkbox"/>
+    <input type="checkbox"/>
+    <input type="checkbox"/>
+    <input type="checkbox"/>
+    <input type="checkbox"/>
+    <input type="checkbox"/>
+    <span class="message--o"></span>
+  </div>
+  
+  <div class="team--x">
+    <input type="checkbox"/>
+    <input type="checkbox"/>
+    <input type="checkbox"/>
+    <input type="checkbox"/>
+    <input type="checkbox"/>
+    <input type="checkbox"/>
+    <input type="checkbox"/>
+    <input type="checkbox"/>
+    <input type="checkbox"/>
+    <span class="message--x"></span>
+  </div>
+</div>
